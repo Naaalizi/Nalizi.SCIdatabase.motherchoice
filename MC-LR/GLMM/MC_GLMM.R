@@ -733,4 +733,5 @@ cat("\n分析完成！\n")
 
 # 9. 保存所有结果到RData文件
 save(results, file = "L_population_analysis_results_GLMM.RData")
+
 cat("所有分析结果已保存到: L_population_analysis_results_GLMM.RData\n")
