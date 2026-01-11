@@ -1,0 +1,1 @@
+All data and analysis of article :"Mothers choice：Maternal effects on the offspring population dynamics differed between exposure to non-toxic Microcystis aeruginosa and chemical MC-LR environments in the rotifer Brachionus calyciflorus"
